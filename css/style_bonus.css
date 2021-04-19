@@ -109,3 +109,17 @@ tr:nth-child(even){
     width: 80%;
     margin:auto;
 }
+
+#bonus {
+    position: relative;
+    left: 10%;
+    height: 180px;
+    margin: 0;
+    padding: 0;
+}
+
+#bonus2 {
+    position: absolute;
+    bottom: 0;
+}
+
