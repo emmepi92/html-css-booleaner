@@ -1,5 +1,6 @@
 * {
     margin: 0;
+    box-sizing: border-box;
   }
 
 html {
@@ -102,4 +103,9 @@ tr:nth-child(even){
 #image2 {
     background-image: url("../img/graph.jpg");
 
+}
+
+.bonus {
+    width: 80%;
+    margin:auto;
 }
