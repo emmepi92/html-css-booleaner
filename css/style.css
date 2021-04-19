@@ -34,6 +34,7 @@ html {
 
 .info-author{
     color: #7c7b7b;
+    font-weight: 900;
 }
 
 .author {
@@ -48,6 +49,43 @@ html {
     margin-top: 20px;
 }
 
+
+.container-text p {
+    margin: 25px 8px;
+}
+
+ul {
+    list-style-position: inside;
+    padding: 8px;
+    margin-bottom: 20px;
+}
+
+table {
+    margin: 8px;
+    border-collapse: collapse;
+}
+
+td { 
+    width: 33%;
+}
+
+th {
+    text-align: left;
+    background-color: #20a9e5;
+    color: #ffffff;
+}
+
+tr:nth-child(even){
+    background-color: #b1e5f2;
+}
+
+.container-image{
+    background-image: url("../img/monitor.jpg");
+    width: 300px;
+    height: 208px;
+    margin: 8px;
+    background-size: cover;
+}
 
 
 
