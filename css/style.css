@@ -23,14 +23,32 @@ html {
     left: 8px;
 }
 
-.container {
+.container-title {
     margin-left: 8px;
 }
 
-.container h1 {
+.container-title h1 {
     font-size: 50px;
-    margin: 20px 0;
+    margin: 20px 0 8px 0;
 }
+
+.info-author{
+    color: #7c7b7b;
+}
+
+.author {
+    font-size: 22px;
+}
+
+.name-author {
+    color:#4EA0FF;
+}
+
+.images {
+    margin-top: 20px;
+}
+
+
 
 
 
